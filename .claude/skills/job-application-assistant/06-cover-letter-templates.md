@@ -1,5 +1,5 @@
 ---
-framework_version: 1.0.2
+framework_version: 1.0.3
 ---
 
 # Cover Letter Templates and Tailoring Guide
@@ -159,6 +159,7 @@ Escape these wherever they appear in body text:
 - Same template structure, just write content in the posting's language
 - Adjust date format to local convention
 - Adjust closing to local convention (e.g. "Med venlig hilsen," for Danish)
+- German (Anschreiben): follow `10-german-market.md` for the date line, the Betreff line, the lowercase word after the salutation comma, "Mit freundlichen Grüßen" with no comma, and Eintrittstermin/Gehaltsvorstellung
 
 ## Checklist Before Finalizing
 - [ ] No em-dashes (use commas or periods instead)

@@ -18,6 +18,15 @@ Primary (your market's job boards - scaffold one with `/add-portal`):
 - **[YOUR_INDUSTRY_JOB_BOARD]** - a niche/industry board for your field (optional)
 - **[YOUR_ADDITIONAL_JOB_BOARD]** - another major board for your market (optional)
 
+German market (this fork): `arbeitsagentur-search` and `arbeitnow-search` run as CLIs. The large commercial boards below have no CLI, because they block automated fetching or forbid it in their terms, so reach them only through these WebSearch `site:` queries:
+- **stepstone.de** - largest commercial board: `site:stepstone.de/stellenangebote "[YOUR_PRIMARY_JOB_TITLE_1]" [YOUR_CITY]`
+- **de.indeed.com** - `site:de.indeed.com "[YOUR_PRIMARY_JOB_TITLE_1]" [YOUR_CITY]`
+- **xing.com/jobs** - DACH professional network: `site:xing.com/jobs "[YOUR_PRIMARY_JOB_TITLE_1]" [YOUR_CITY]`
+- **get-in-it.de** / **berlinstartupjobs.com** - IT graduates / Berlin startups (optional)
+- **service.bund.de** / **interamt.de** - public-sector roles (optional)
+
+Search German titles as well as English ones (e.g. "Softwareentwickler" alongside "Software Engineer", "Datenanalyst" alongside "Data Analyst").
+
 Secondary (company career pages via Google):
 - Direct Google searches with `site:` filters for known target companies
 

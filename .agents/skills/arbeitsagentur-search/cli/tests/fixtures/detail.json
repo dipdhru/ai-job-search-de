@@ -1,0 +1,41 @@
+{
+ "stellenangebotsart": "ARBEIT",
+ "stellenangebotsTitel": "Senior Data Scientist - (Global Search, Consumer)",
+ "quereinstiegGeeignet": false,
+ "stellenangebotsBeschreibung": "**Company Description**\n\nAs the world’s pioneering local delivery platform, our mission is to deliver an amazing experience, fast, easy, and to your door. We operate in around 65 countries worldwide powered by tech, designed by people. As one of Europe’s largest tech platforms, headquartered in Berlin, Germany. Delivery Hero has been listed on the Frankfurt Stock Exchange since 2017 and is part of the MDAX stock market index. We enable creative minds to deliver solutions that create impact within our ecosystem. We move fast, take action and adapt. No matter where you're from or what you believ",
+ "eintrittszeitraum": {
+  "von": "2026-10-27"
+ },
+ "verguetungsangabe": "KEINE_ANGABEN",
+ "vertragsdauer": "KEINE_ANGABE",
+ "istGeringfuegigeBeschaeftigung": false,
+ "istBehinderungGefordert": false,
+ "stellenlokationen": [
+  {
+   "adresse": {
+    "adresszusatz": "Oranienburger Str. 70",
+    "plz": "10117",
+    "ort": "Berlin",
+    "region": "BERLIN",
+    "land": "DEUTSCHLAND"
+   },
+   "breite": 52.517272163,
+   "laenge": 13.388290438
+  }
+ ],
+ "chiffrenummer": "JR0082370",
+ "istPrivateArbeitsvermittlung": false,
+ "istArbeitnehmerUeberlassung": false,
+ "veroeffentlichungszeitraum": {
+  "von": "2026-10-22"
+ },
+ "datumErsteVeroeffentlichung": "2026-10-22",
+ "aenderungsdatum": "2026-10-27T12:58:54.863",
+ "istBetreut": false,
+ "hauptberuf": "Data Scientist",
+ "firma": "Delivery Hero SE",
+ "arbeitgeberKundennummerHash": "aOkp7Iab4FbBnF1v_v1QySXMnUjCAQGWkxJz8dEFdHc=",
+ "allianzpartnerUrl": "deliveryhero.com",
+ "allianzpartnerName": "Delivery Hero SE",
+ "referenznummer": "20390-978522636-S"
+}

@@ -1,0 +1,93 @@
+{
+ "ergebnisliste": [
+  {
+   "stellenangebotsart": "ARBEIT",
+   "stellenangebotsTitel": "Senior Data Scientist - (Global Search, Consumer)",
+   "quereinstiegGeeignet": false,
+   "eintrittszeitraum": {
+    "von": "2026-10-27"
+   },
+   "verguetungsangabe": "KEINE_ANGABEN",
+   "vertragsdauer": "KEINE_ANGABE",
+   "istGeringfuegigeBeschaeftigung": false,
+   "stellenlokationen": [
+    {
+     "adresse": {
+      "adresszusatz": "Oranienburger Str. 70",
+      "plz": "10117",
+      "ort": "Berlin",
+      "region": "BERLIN",
+      "land": "DEUTSCHLAND"
+     },
+     "breite": 52.517272163,
+     "laenge": 13.388290438
+    }
+   ],
+   "chiffrenummer": "JR0082370",
+   "veroeffentlichungszeitraum": {
+    "von": "2026-10-22"
+   },
+   "datumErsteVeroeffentlichung": "2026-10-22",
+   "aenderungsdatum": "2026-10-27T12:58:54.863",
+   "hauptberuf": "Data Scientist",
+   "firma": "Delivery Hero SE",
+   "arbeitgeberKundennummerHash": "aOkp7Iab4FbBnF1v_v1QySXMnUjCAQGWkxJz8dEFdHc=",
+   "referenznummer": "20390-978522636-S",
+   "entfernung": 3,
+   "alleBerufe": [
+    "Data Scientist"
+   ]
+  },
+  {
+   "stellenangebotsart": "ARBEIT",
+   "stellenangebotsTitel": "Senior Applied Scientist - Agentic AI (all genders)",
+   "quereinstiegGeeignet": false,
+   "arbeitszeitVollzeit": true,
+   "eintrittszeitraum": {
+    "von": "2026-10-28"
+   },
+   "verguetungsangabe": "KEINE_ANGABEN",
+   "vertragsdauer": "KEINE_ANGABE",
+   "istGeringfuegigeBeschaeftigung": false,
+   "stellenlokationen": [
+    {
+     "adresse": {
+      "strasse": "Valeska-Gert-Straße 5",
+      "plz": "10243",
+      "ort": "Berlin",
+      "region": "BERLIN",
+      "land": "DEUTSCHLAND"
+     },
+     "breite": 52.506468,
+     "laenge": 13.441248
+    }
+   ],
+   "veroeffentlichungszeitraum": {
+    "von": "2026-10-28"
+   },
+   "datumErsteVeroeffentlichung": "2026-10-28",
+   "aenderungsdatum": "2026-10-28T07:22:17.463",
+   "hauptberuf": "Data Scientist",
+   "firma": "Zalando SE",
+   "arbeitgeberKundennummerHash": "6j1LD7GT5Ptmu4Kjh_aAXrzBy8l2iE9iGSfd_WjRWHc=",
+   "referenznummer": "18251-34150-S",
+   "entfernung": 1,
+   "alleBerufe": [
+    "Data Scientist"
+   ]
+  }
+ ],
+ "maxErgebnisse": 3,
+ "page": 1,
+ "size": 2,
+ "woOutput": {
+  "bereinigterOrt": "Berlin",
+  "suchmodus": "UMKREISSUCHE",
+  "koordinaten": [
+   {
+    "lat": 52.5112613,
+    "lon": 13.4255145
+   }
+  ]
+ }
+}
