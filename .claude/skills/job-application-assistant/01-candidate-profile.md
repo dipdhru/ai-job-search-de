@@ -85,6 +85,7 @@ Candidate instruction 2026-11-16: do NOT include on CVs or cover letters.
 ### Software & Tools
 - SQL (PostgreSQL), Python (Pandas, NumPy), Qlik Sense, Qlik NPrinting, Excel (Advanced), Tableau, Streamlit
 - Google Sheets, Google Docs, Google Slides (good working skill, used regularly; confirmed 2026-11-16)
+- Jira (stated by candidate; confirmed 2026-11-16 - usage context [TBD])
 - Techniques: KPI tracking, funnel/cohort/churn/trend analysis, A/B testing, ETL, data cleaning and validation
 
 ## Interests
