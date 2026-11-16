@@ -12,9 +12,9 @@ framework_version: 1.1.1
 - **Location:** Berlin, Germany (willing to relocate; confirmed for Frankfurt 2026-11-16)
 - **Phone:** [withheld from public repo - on candidate's CV]
 - **Email:** [withheld from public repo - on candidate's CV]
-- **LinkedIn:** https://linkedin.com/in/dipanshu-singh-b94384174 (link target in candidate's resume PDF; candidate typed "dipanshu-s-b94384174" in chat 2026-11-16 - confirm which is live)
+- **LinkedIn:** https://linkedin.com/in/dipanshu-s-b94384174 (confirmed by candidate 2026-11-16)
 - **GitHub:** https://github.com/dipdhru
-- **Status:** Job searching in Germany; currently interning at MAT Digital (dates/title [TBD])
+- **Status:** Job searching in Germany; part-time Customer Service Representative at Ma'Loa Franchise Berlin
 - **Constraints:** Willing to relocate within Germany. Available to start within one month (stated 2026-11-16).
 
 ### Languages
@@ -55,9 +55,11 @@ Gurugram, India
 - Supported fulfilment operations covering 250+ deliveries to 100+ customers
 - Observed and analysed end-to-end supply chain workflows, inbound logistics to last-mile delivery
 
-### Working Student - Ma'Loa Franchise Berlin (dates/duties [TBD])
+### Customer Service Representative (part-time) - Ma'Loa Franchise Berlin (current)
+Berlin, Germany. Previously Working Student there, Apr 2025 - Oct 2025; continues as part-time Customer Service Representative (confirmed 2026-11-16). Day-to-day duties [TBD].
 
-### Intern - MAT Digital (dates/duties [TBD], current)
+### Intern - MAT Digital
+Candidate instruction 2026-11-16: do NOT include on CVs or cover letters.
 
 ## Leadership & Volunteering
 - **Club President (2 consecutive terms), executive committee - Step Up Dwarka Toastmasters** (dates [TBD]): coordinated 50+ club meetings and 3 special outdoor meetings; led data-driven membership growth initiatives and tracked performance metrics; club earned Rising Star and President's Distinguished Club awards.
@@ -82,6 +84,7 @@ Gurugram, India
 
 ### Software & Tools
 - SQL (PostgreSQL), Python (Pandas, NumPy), Qlik Sense, Qlik NPrinting, Excel (Advanced), Tableau, Streamlit
+- Google Sheets, Google Docs, Google Slides (good working skill, used regularly; confirmed 2026-11-16)
 - Techniques: KPI tracking, funnel/cohort/churn/trend analysis, A/B testing, ETL, data cleaning and validation
 
 ## Interests
@@ -92,6 +95,9 @@ Gurugram, India
 
 ## Awards
 <!-- none recorded -->
+
+## Network
+- Adnan Akhtar - friend working at Collectors (PSA); candidate agreed 2026-11-16 to name him in Collectors applications.
 
 ## References
 More references available upon request.
