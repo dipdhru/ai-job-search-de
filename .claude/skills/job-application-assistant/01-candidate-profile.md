@@ -4,70 +4,84 @@ framework_version: 1.1.1
 
 # Candidate Profile
 
-<!-- SETUP: This file is populated by running /setup -->
-<!-- After running /setup, all sections will be filled with your actual information -->
+<!-- Partially populated from the candidate's own statements (chat, 2026-11-16).
+     Fields marked [TBD] are not yet confirmed - never fill them by guessing. -->
 
 ## Identity
-- **Name:** [YOUR_NAME]
-- **Location:** [YOUR_ADDRESS]
-- **Phone:** [YOUR_PHONE]
-- **Email:** [YOUR_EMAIL]
-- **LinkedIn:** [YOUR_LINKEDIN_URL]
-- **GitHub:** [YOUR_GITHUB_URL]
-- **Status:** [YOUR_EMPLOYMENT_STATUS]
-- **Constraints:** [YOUR_COMMUTE_OR_LOCATION_CONSTRAINTS]
+- **Name:** Dipanshu Singh
+- **Location:** Berlin, Germany
+- **Phone:** [TBD]
+- **Email:** [TBD - confirm which address to use on CVs]
+- **LinkedIn:** [TBD]
+- **GitHub:** https://github.com/dipdhru
+- **Status:** Job searching in Germany; currently interning at MAT Digital
+- **Constraints:** Willing to relocate within Germany (confirmed for Frankfurt, 2026-11-16). Available to start within one month.
 
 ### Languages
-<!-- Every language you can work in professionally, with your honest level. Used by the
-Language Gate in 04-job-evaluation.md and by job-scraper/search-queries.md's query-language
-generation. Omit any language you don't actually work in - an undeclared language is treated as
-a hard no, not a gap to smooth over. -->
 
 | Language | Level | Notes |
 |----------|-------|-------|
-| [LANGUAGE] | [LEVEL, e.g. "Native" / "C2" / "B1/B2 (conversational)"] | [optional] |
+| English | Professional working proficiency | Working language across all roles |
+| German | B1.1 | Confirmed by candidate 2026-11-16 |
 
 ## Education
 
 | Degree | Period | Institution | Key Topics |
 |--------|--------|-------------|------------|
-| [DEGREE] | [YEARS] | [INSTITUTION] | [TOPICS] |
+| MSc Data Science & AI | [TBD] | Gisma University of Applied Sciences, Berlin | ML, NLP, deep learning |
 
 ## Professional Experience
 
-### [JOB_TITLE] - [COMPANY] ([START] - [END])
-[LOCATION]
-- [RESPONSIBILITY_OR_ACHIEVEMENT_1]
-- [RESPONSIBILITY_OR_ACHIEVEMENT_2]
-- [RESPONSIBILITY_OR_ACHIEVEMENT_3]
+<!-- Dates and exact titles [TBD] - confirm from candidate's own resume before use. -->
 
-<!-- Add more roles as needed -->
+### Intern - MAT Digital ([TBD] - present)
+[TBD location]
+
+### Analytics & BI - Assistive (SaaS) (~3 years, exact dates [TBD])
+- Built 25+ BI dashboards (Qlik Sense, SQL)
+- Built ETL pipelines; automated 70% of reporting
+- Contributed to 15% revenue uplift, 10% QoQ adoption increase, 20% churn reduction
+
+### Working Student - Ma'Loa Franchise Berlin ([TBD])
+
+### [TBD title] - Applied Techno ([TBD])
+- Worked with enterprise clients including Siemens and Adani
+
+### [TBD title, Supply Chain] - Flipkart ([TBD])
+
+## Volunteer & Leadership
+- **Executive Member - Step Up Dwarka Toastmasters** ([TBD dates]): coordinated 50+ club meetings and 3 special outdoor meetings.
 
 ## Independent Projects
-<!-- Projects outside of employment: freelance, open source, personal -->
-- **[PROJECT_NAME]**: [DESCRIPTION]
+All on GitHub (github.com/dipdhru) with live demos:
+- **AI Automation Risk Analysis**
+- **House Price Prediction**
+- **RAG QA System** (LLaMA)
+- **Air Pollution Forecasting** (LSTM)
+- **Spotify Genre Classification**
 
 ## Technical Skills
 
 ### Programming & ML
-- **[LANGUAGE]** ([PROFICIENCY]): [FRAMEWORKS_AND_LIBRARIES]
-- [OTHER_SKILLS]
+- **Python**, **SQL**
+- ML models, NLP (spaCy, BERT, SentenceTransformer), RAG pipelines with LLaMA, LSTM neural networks
 
 ### Domain Expertise
-- [DOMAIN_1]
-- [DOMAIN_2]
+- Business intelligence and reporting automation
+- SaaS product analytics (adoption, churn, revenue)
+- Supply chain (Flipkart)
 
 ### Software & Tools
-- [TOOL_LIST]
+- Qlik Sense, SQL, Python, ETL tooling
+
+## Interests
+- Reading
 
 ## Publications
-<!-- List peer-reviewed publications, if any -->
-1. [AUTHOR_LIST] ([YEAR]). [TITLE]. [JOURNAL]. [DOI_LINK]
+<!-- none recorded -->
 
 ## Awards
-- [AWARD] - [EVENT] ([YEAR])
+<!-- none recorded -->
 
 ## References
-- [NAME], [TITLE], [COMPANY] ([EMAIL], [PHONE])
-
 More references available upon request.
